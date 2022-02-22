@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="https://janrebolledo.com/logo.png" alt="Logo" width="120"/>
 
-<!--
-**janrebolledo/janrebolledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Jan Rebolledo
 
-Here are some ideas to get you started:
+## 🐻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **freelance graphic designer** and **front-end web developer** based out of Hesperia, CA.
+
+I'm currently learning `Javascript`, `React`, and `Next.js`.
+
+## 🤝 Get in touch
+
+Visit my site and learn more about me at [janrebolledo.com](https://janrebolledo.com)
+
+You can also shoot me a DM on any of these platforms
+
+<img src="https://janrebolledo.com/Social-Icons/Instagram.png" alt="Logo" width="12"/> [Instagram](https://instagram.com/janconcepts)
+<img src="https://janrebolledo.com/Social-Icons/Twitter.png" alt="Logo" width="12"/> [Twitter](https://twitter.com/janconcepts)
