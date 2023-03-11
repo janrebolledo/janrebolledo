@@ -4,9 +4,9 @@
 
 ## 🐻 About Me
 
-I'm a **freelance graphic designer** and **front-end web developer** based out of Hesperia, CA.
+I'm a **freelance graphic designer** and **front-end web developer** based in Hesperia, CA.
 
-I'm currently learning `Javascript`, `React`, and `Next.js`.
+I'm currently learning `Astro` & `Next.js`.
 
 ## 🤝 Get in touch
 
