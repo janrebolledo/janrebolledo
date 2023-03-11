@@ -1,4 +1,4 @@
-<img src="https://janrebolledo.com/logo.png" alt="Logo" width="120"/>
+<img src="https://janrebolledo.com/logo.png" alt="Logo" width="40"/>
 
 ### Jan Rebolledo
 
