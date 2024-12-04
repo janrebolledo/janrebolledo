@@ -4,9 +4,9 @@ Jan Rebolledo
 
 ## 🐻 About Me
 
-I'm a **freelance graphic designer** and **front-end web developer** based in Hesperia, CA.
+I'm a **computer science student** at **Cal Poly Pomona** and **front-end web developer** based in Hesperia, CA.
 
-I'm currently learning `Typescript` w/ `Next.js`.
+I'm currently learning `Javascript` w/ `Next.js`.
 
 ## 🤝 Get in touch
 
